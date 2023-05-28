@@ -1,5 +1,13 @@
+import customers.Customer;
+import items.Brand;
+import items.ClothingItem;
+import items.Item;
+import items.ItemWrapper;
+import management.Inventory;
+import management.Order;
+import management.Sale;
+
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
